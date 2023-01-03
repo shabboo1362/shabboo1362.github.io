@@ -1,0 +1,24 @@
+.main_section {
+    padding: 10px 10px;
+    margin:30px ;
+    border: 1px solid rgb(107, 120, 219);
+    border-radius: 5px;
+   
+   
+  
+  }
+  
+  .container {
+    /* padding: 1rem 0; */
+    margin: 10px;
+    /* padding: 10px; */
+    background-color: rgb(255, 255, 255);
+    max-width: 200px;
+    min-width: 180px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+    width: 50%;
+  }
+  
+  
